@@ -1,7 +1,7 @@
 # Next js Blog for Jimmy Farley
 
 <p align="center">
-  <a href="https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/"><img src="public/assets/images/nextjs-starter-banner.png?raw=true" alt="Nextjs starter banner"></a>
+  <a href="https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/"><img src="public/assets/images/banner.png?raw=true" alt="Nextjs starter banner"></a>
 </p>
 
 ### Features
